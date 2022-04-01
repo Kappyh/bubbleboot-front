@@ -1,0 +1,15 @@
+.menu-container{
+  width: 480px;
+  height: 55px;
+  background: #feca57;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo{
+  flex: 1;
+  text-align: center;
+}
+.menu{
+  margin-left: auto;
+}
